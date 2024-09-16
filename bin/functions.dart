@@ -5,7 +5,6 @@ void main() {
   print("Rata-rata dari perhitungan $firstNumber & $secondNumber adalah ${avg(firstNumber, secondNumber)}");
   greatNewUser("Rafif", 2002, true);
   greatNewUser("Zaidan");
-  greatNewUser("Rafif");
   greatNewUser2(name2: "Rafif", age2: 2002, isVerified2: false);
   print("Rata rata dari kedua bilangan $firstNumber & $secondNumber adalah ${avg(firstNumber, secondNumber)}");
 }
